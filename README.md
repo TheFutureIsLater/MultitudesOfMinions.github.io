@@ -1,10 +1,12 @@
 # MultitudesOfMinions.github.io
 
 Tasks:
-0)Decide on main game functionality
-1)Design overall layout
-2)Make path generator
-3)Make minions spawn
-4)Make towers generate
-5)Make towers shoot
-6)Make more tasks
+<ol>
+ <li>Decide on main game functionality</li>
+ <li>Design overall layout</li>
+ <li>Make path generator</li>
+ <li>Make minions spawn</li>
+ <li>Make towers generate</li>
+ <li>Make towers shoot</li>
+ <li>Make more tasks</li>
+</ol>
