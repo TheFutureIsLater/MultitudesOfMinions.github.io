@@ -1,3 +1,3 @@
 # MultitudesOfMinions.github.io
 
-This is just here as a link to the game I'm making.
+I made a separate github account to host this here: https://github.com/MultitudesOfMinions/MultitudesOfMinions.github.io
